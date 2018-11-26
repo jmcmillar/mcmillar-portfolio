@@ -9,8 +9,8 @@
 /sw.js
   Cache-Control: no-cache
 /mcmillar-portfolio/offline-plugin-app-shell-fallback/
-  Link: </mcmillar-portfolio/webpack-runtime-7e099fd19a5c7906a865.js>; rel=preload; as=script
+  Link: </mcmillar-portfolio/webpack-runtime-bca747010ab219b17502.js>; rel=preload; as=script
   Link: </mcmillar-portfolio/component---node-modules-gatsby-plugin-offline-app-shell-js-3f764e695cc46f4a6485.js>; rel=preload; as=script
 /mcmillar-portfolio/
-  Link: </mcmillar-portfolio/webpack-runtime-7e099fd19a5c7906a865.js>; rel=preload; as=script
+  Link: </mcmillar-portfolio/webpack-runtime-bca747010ab219b17502.js>; rel=preload; as=script
   Link: </mcmillar-portfolio/4.5dd2807fad3a1bdf1b74.css>; rel=preload; as=script
