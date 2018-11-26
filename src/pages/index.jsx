@@ -11,7 +11,7 @@ import { rotate, UpDown, UpDownWide, waveAnimation } from '../styles/animations'
 import { hidden } from '../styles/utils';
 import { colors } from '../../tailwind';
 import triangle from '../images/triangle.svg';
-import avatar from '../images/avatar.jpg';
+import avatar from '../images/avatar.png';
 import '../styles/global';
 
 const Divider = styled(ParallaxLayer)`
@@ -175,31 +175,17 @@ const Index = () => (
           <ProjectsWrapper>
             <ProjectCard
               title="React Youtube Search Engine"
-              link="https://www.behance.net/gallery/58937147/Freiheit"
+              link=" "
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
               This project utilizes React & Youtube's API. Check it out.
             </ProjectCard>
             <ProjectCard
               title="React 5 day Weather App"
-              link="https://www.behance.net/gallery/52915793/Harry-Potter"
+              link=""
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
               This project is a 5 day forcast utilizing React/Redux.
-            </ProjectCard>
-            <ProjectCard
-              title="Tomb Raider"
-              link="https://www.behance.net/gallery/43907099/Tomb-Raider"
-              bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
-            >
-              Recreation of a Tomb Raider Wallpaper (Fan Art)
-            </ProjectCard>
-            <ProjectCard
-              title="Eagle"
-              link="https://www.behance.net/gallery/38068151/Eagle"
-              bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-            >
-              A fantasy image manipulation relocating the habitat of wild animals.
             </ProjectCard>
           </ProjectsWrapper>
         </Inner>
@@ -252,16 +238,11 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="John Doe" />
             <AboutSub>
-              The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-              Emoji into my speech to better express myself. Winky face.
+              I'm a developer who focuses on providing creative solutions for user based problems. I specialize in transforming beautiful design into responsive, optimized websites and applications.
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-            every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-            make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The
-            kids want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that
-            all right?
+
           </AboutDesc>
         </Inner>
       </Content>
@@ -285,7 +266,7 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
+            Say <a href="mailto:jmmcmillar@gmail.com">Hi</a> or find me on other platforms:{' '}
             <a href="https://www.linkedin.com/in/joyce-mcmillar-b4028825/">Linkedin</a> &{' '}
             <a href="https://www.instagram.com/joycie_marie411/">Instagram</a>
           </ContactText>
