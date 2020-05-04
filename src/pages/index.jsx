@@ -158,7 +158,7 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hi, <br /> I'm Joyce McMillar.
+            Hi, <br /> I'm Joyce Clay.
           </BigTitle>
           <Subtitle>#BoyMom #CoffeeAddict #JavascriptEnthusiast #Nerd #RetroGamer</Subtitle>
         </Hero>
@@ -272,8 +272,8 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2018 by Joyce McMillar{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
+          &copy; 2020 by Joyce Clay{' '}
+          <a href="https://jmcmillar.github.io/mcmillar-portfolio/">Github Repository</a>.
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
